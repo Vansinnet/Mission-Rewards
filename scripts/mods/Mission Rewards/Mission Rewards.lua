@@ -1,3 +1,4 @@
+---@class MissionRewardsMod: DMFMod
 local mod = get_mod("Mission Rewards")
 
 local LABELS = mod:io_dofile("Mission Rewards/scripts/mods/Mission Rewards/Mission Rewards_config")
