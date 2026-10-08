@@ -1,3 +1,4 @@
+---@class MissionRewardsMod
 local mod = get_mod("Mission Rewards")
 local labels = mod:io_dofile("Mission Rewards/scripts/mods/Mission Rewards/Mission Rewards_config")
 local widgets = {}

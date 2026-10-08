@@ -1,3 +1,4 @@
+---@class MissionRewardsMod
 local mod = get_mod("Mission Rewards")
 
 local Promise = require("scripts/foundation/utilities/promise")
